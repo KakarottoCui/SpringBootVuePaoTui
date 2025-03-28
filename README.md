@@ -1,7 +1,7 @@
 # SpringBootVuePaoTui
  基于java SpringBoot和Vue的校园跑腿帮买系统设计
 
-演示视频链接：https://live.csdn.net/v/286326
+演示视频链接：https://www.bilibili.com/video/BV1Am4y1z77w/
 
 实现的功能
 
